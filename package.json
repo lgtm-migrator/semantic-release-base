@@ -1,0 +1,37 @@
+{
+  "name": "@crystal-ball/semantic-release-base",
+  "version": "0.0.0-development",
+  "description": "Fellowship shared Semantic Release configs",
+  "main": "index.js",
+  "keywords": [
+    "semantic-release"
+  ],
+  "contributors": [
+    "Dan Hedgecock <hedgecock.d@gmail.com> (https://danhedgecock.com)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crystal-ball/semantic-release-base.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "ISC",
+  "scripts": {
+    "test": "npm run lint",
+    "semantic-release": "semantic-release",
+    "lint": "eslint *.js",
+    "format": "prettier --write \"*.{js,md}\""
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "3.0.2",
+    "@semantic-release/git": "7.0.8",
+    "conventional-changelog-eslint": "3.0.1",
+    "semantic-release": "15.13.3"
+  },
+  "devDependencies": {
+    "@crystal-ball/prettier-base": "1.0.0",
+    "eslint-config-eloquence": "11.0.0"
+  },
+  "prettier": "@crystal-ball/prettier-base"
+}
