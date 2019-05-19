@@ -1,3 +1,22 @@
+# @crystal-ball/semantic-release-base changelog
+
+# [1.1.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.0.1...v1.1.0) (2019-05-19)
+
+
+### Update
+
+* Update changelog format to have short hashes and a title (#9) ([9f18e5e](https://github.com/crystal-ball/semantic-release-base/commit/9f18e5eb2a36d7431a875e8568afdeb84aab9d05)), closes [#9](https://github.com/crystal-ball/semantic-release-base/issues/9) [#8](https://github.com/crystal-ball/semantic-release-base/issues/8)
+
+
+
+
+# [1.1.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.0.1...v1.1.0) (2019-05-19)
+
+
+### Update
+
+* Update changelog format to have short hashes and a title (#9) ([9f18e5eb2a36d7431a875e8568afdeb84aab9d05](https://github.com/crystal-ball/semantic-release-base/commit/9f18e5eb2a36d7431a875e8568afdeb84aab9d05)), closes [#9](https://github.com/crystal-ball/semantic-release-base/issues/9) [#8](https://github.com/crystal-ball/semantic-release-base/issues/8)
+
 ## [1.0.1](https://github.com/crystal-ball/semantic-release-base/compare/v1.0.0...v1.0.1) (2019-05-04)
 
 
