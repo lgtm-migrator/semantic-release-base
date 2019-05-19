@@ -20,19 +20,19 @@
   "scripts": {
     "test": "npm run lint",
     "semantic-release": "semantic-release",
-    "lint": "eslint *.js",
+    "lint": "NODE_ENV=test eslint --format=pretty *.js",
     "format": "prettier --write \"*.{js,md}\""
   },
   "dependencies": {
     "@semantic-release/changelog": "3.0.2",
     "@semantic-release/git": "7.0.8",
     "conventional-changelog-eslint": "3.0.1",
-    "semantic-release": "15.13.3"
+    "semantic-release": "15.13.12"
   },
   "devDependencies": {
     "@crystal-ball/commitizen-base": "1.0.0",
     "@crystal-ball/prettier-base": "1.0.0",
-    "eslint-config-eloquence": "11.0.0",
+    "eslint-config-eloquence": "11.2.0",
     "husky": "2.2.0"
   },
   "config": {
