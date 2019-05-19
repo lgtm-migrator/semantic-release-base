@@ -4,7 +4,10 @@ const path = require('path')
 // eslint-disable-next-line import/no-dynamic-require
 const packageJSON = require(path.resolve(process.cwd(), 'package.json'))
 
-// Change the commit partial for ESLint to use `commit.short` and `commit.long`
+// Overwrite header partial to use h2 for releases except patch releases which are h4s
+const headerPartial = `{{#if isPatch}}####{{else}}##{{/if}} {{#if @root.linkCompare}}[{{version}}]({{@root.host}}/{{#if @root.owner}}{{@root.owner}}/{{/if}}{{@root.repository}}/compare/{{previousTag}}...{{currentTag}}){{else}}{{version}}{{/if}}{{#if title}} "{{title}}"{{/if}}{{#if date}} ({{date}}){{/if}}`
+
+// Overwrite the commit partial for ESLint to use `commit.short` and `commit.long`
 // for hash references so the output is readable
 const commitPartial = `* {{#if message}}{{message}}{{else}}{{header}}{{/if}}
 
@@ -28,6 +31,7 @@ module.exports = {
           //   commit.isRad = true
           //   return commit
           // },
+          headerPartial,
           commitPartial,
         },
       },
