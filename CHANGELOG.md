@@ -1,5 +1,35 @@
 # @crystal-ball/semantic-release-base changelog
 
+## [1.2.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.1.0...v1.2.0) (2019-05-19)
+
+### Chore
+
+* Remove project lockfile ([7a5ee11](https://github.com/crystal-ball/semantic-release-base/commit/7a5ee11c08b78ccc5413de30f23edc9d41f069bc))
+### New
+
+* Use h2 for release header and h4 for patch release header ([138b1a0](https://github.com/crystal-ball/semantic-release-base/commit/138b1a0b53fd132f3ca5a8e20084d07698aa9117))
+### Upgrade
+
+* bump semantic-release and eslint-config-eloquence ([0eab743](https://github.com/crystal-ball/semantic-release-base/commit/0eab7430d91ea9b83246c3c0cd5f7c493dabaf5e))
+
+
+
+
+# [1.2.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.1.0...v1.2.0) (2019-05-19)
+
+
+### Chore
+
+* Remove project lockfile ([7a5ee11c08b78ccc5413de30f23edc9d41f069bc](https://github.com/crystal-ball/semantic-release-base/commit/7a5ee11c08b78ccc5413de30f23edc9d41f069bc))
+
+### New
+
+* Use h2 for release header and h4 for patch release header ([138b1a0b53fd132f3ca5a8e20084d07698aa9117](https://github.com/crystal-ball/semantic-release-base/commit/138b1a0b53fd132f3ca5a8e20084d07698aa9117))
+
+### Upgrade
+
+* bump semantic-release and eslint-config-eloquence ([0eab7430d91ea9b83246c3c0cd5f7c493dabaf5e](https://github.com/crystal-ball/semantic-release-base/commit/0eab7430d91ea9b83246c3c0cd5f7c493dabaf5e))
+
 # [1.1.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.0.1...v1.1.0) (2019-05-19)
 
 
