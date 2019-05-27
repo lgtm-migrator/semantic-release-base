@@ -14,6 +14,13 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [1.5.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.4.0...v1.5.0) (2019-05-27)
+
+
+#### ✨ Update
+
+* Make github release labels uppercase to match project labels 🔮✨ (#13)([ff3c073](https://github.com/crystal-ball/semantic-release-base/commit/ff3c073443af58ea44910c08f21297871a5855c9)), closes [#13](https://github.com/crystal-ball/semantic-release-base/issue/13)
+
 ## [1.4.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.3.0...v1.4.0) (2019-05-27)
 
 
