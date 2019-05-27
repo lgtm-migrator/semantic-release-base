@@ -32,6 +32,7 @@
     "semantic-release": "15.13.12"
   },
   "devDependencies": {
+    "@crystal-ball/commitizen-adapter": "1.0.0",
     "@crystal-ball/commitizen-base": "1.0.0",
     "@crystal-ball/prettier-base": "1.0.0",
     "eslint-config-eloquence": "11.2.0",
@@ -40,7 +41,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "cz-adapter-eslint"
+      "path": "@crystal-ball/commitizen-adapter"
     }
   },
   "husky": {
