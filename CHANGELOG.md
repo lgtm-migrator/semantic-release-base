@@ -13,6 +13,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - ✨ - Updates
 > - 🛠 - Fixes
 
+
+## [1.3.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.2.0...v1.3.0) (2019-05-27)
+
+
+### 🔖 Release Notes
+
+* A lot of love went into this release and we hope you enjoy it 😍
+
+
+#### 💖 New
+
+* Make release process amazing 💖 (#10)([75b23ee](https://github.com/crystal-ball/semantic-release-base/commit/75b23ee18e388a04f51935219982e07f2017ae44)), closes [#10](https://github.com/crystal-ball/semantic-release-base/issue/10) [#11](https://github.com/crystal-ball/semantic-release-base/issue/11)
+
 ## [1.2.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.1.0...v1.2.0) (2019-05-19)
 
 #### Chore
