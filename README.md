@@ -1,4 +1,4 @@
-# 🔮 Fellowship Semantic Release Base
+# 🔮 Projects - Semantic Release Base
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@crystal-ball/semantic-release-base">
