@@ -14,6 +14,20 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [1.4.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.3.0...v1.4.0) (2019-05-27)
+
+
+#### ✨ Update
+
+* Make the git commit message A+ 🔮✨ (#12)([c29dc3d](https://github.com/crystal-ball/semantic-release-base/commit/c29dc3ded9fa1e839fac48c21dc92ad3b70a7e40)), closes [#12](https://github.com/crystal-ball/semantic-release-base/issue/12)
+
+#### Docs, Upgrade, Chore
+
+* Better project title and keywords([496b07b](https://github.com/crystal-ball/semantic-release-base/commit/496b07bf6759898432a113734d05fcd6bc74ed3b))
+* Update dependency husky to v2.3.0 (#6)([a38560c](https://github.com/crystal-ball/semantic-release-base/commit/a38560cda4c9ad8d4326af86885408a3d713c822)), closes [#6](https://github.com/crystal-ball/semantic-release-base/issue/6)
+* Specify github and npm deps for better deps control ✨([036b01b](https://github.com/crystal-ball/semantic-release-base/commit/036b01b6814269ac03563201ad98405fcbd9087a))
+* Switch to 🔮 Projects adapter([85d0793](https://github.com/crystal-ball/semantic-release-base/commit/85d0793aecac4eaff1e1a1a5a94da97247b1b73e))
+
 ## [1.3.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.2.0...v1.3.0) (2019-05-27)
 
 
