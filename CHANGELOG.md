@@ -14,6 +14,13 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+### [1.6.1](https://github.com/crystal-ball/semantic-release-base/compare/v1.6.0...v1.6.1) (2019-07-08)
+
+
+#### 🛠 Fix
+
+* Run git after npm to ensure package.json version is udpated 🔧 (#24)([1336762](https://github.com/crystal-ball/semantic-release-base/commit/1336762ff0f214613da217303bf83812113a0019)), closes [#24](https://github.com/crystal-ball/semantic-release-base/issue/24)
+
 ## [1.6.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.5.0...v1.6.0) (2019-07-08)
 
 
