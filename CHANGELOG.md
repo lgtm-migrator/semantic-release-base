@@ -14,6 +14,20 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+### [1.6.2](https://github.com/crystal-ball/semantic-release-base/compare/v1.6.1...v1.6.2) (2019-07-14)
+
+
+#### 🛠 Fix
+
+* Update semantic-release to fix Lodash vuln 🔒 (#29)([2b20423](https://github.com/crystal-ball/semantic-release-base/commit/2b204234d343f7b767c36435d036df87239c6537)), closes [#29](https://github.com/crystal-ball/semantic-release-base/issue/29)
+
+#### Upgrade, Chore
+
+* Update dependency @crystal-ball/commitizen-adapter to v1.2.0 (#26)([9321d11](https://github.com/crystal-ball/semantic-release-base/commit/9321d117079c3a9c2828da753ca6f13ef4d10d99)), closes [#26](https://github.com/crystal-ball/semantic-release-base/issue/26)
+* Update dependency @crystal-ball/prettier-base to v1.2.0 (#27)([2387163](https://github.com/crystal-ball/semantic-release-base/commit/23871638fad07fe4665b916a4209cd9f28811ce7)), closes [#27](https://github.com/crystal-ball/semantic-release-base/issue/27)
+* Update dependency eslint-config-eloquence to v12.0.1 (#28)([9143f53](https://github.com/crystal-ball/semantic-release-base/commit/9143f53694ee87fb81714baf30090e7d84f9f588)), closes [#28](https://github.com/crystal-ball/semantic-release-base/issue/28)
+* Set ESLint config to root 🔧([b283d97](https://github.com/crystal-ball/semantic-release-base/commit/b283d9736c136920c6250a73b77764a53f5aa33b))
+
 ### [1.6.1](https://github.com/crystal-ball/semantic-release-base/compare/v1.6.0...v1.6.1) (2019-07-08)
 
 
