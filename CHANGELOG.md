@@ -14,6 +14,18 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [1.7.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.6.2...v1.7.0) (2019-09-28)
+
+
+#### ✨ Update
+
+* Update all non-major dependencies (#40)([ab5ed11](https://github.com/crystal-ball/semantic-release-base/commit/ab5ed11ed0e526ddaa77abffad621c7d5246d329)), closes [#40](https://github.com/crystal-ball/semantic-release-base/issue/40)
+
+#### Upgrade, Chore
+
+* Dev dependencies 🆙 (#33)([691416d](https://github.com/crystal-ball/semantic-release-base/commit/691416db1e4e8ed33236c80d9c18ea59fe313258)), closes [#33](https://github.com/crystal-ball/semantic-release-base/issue/33)
+* Reconfigure Renovate (#39)([a4e3f20](https://github.com/crystal-ball/semantic-release-base/commit/a4e3f200a359d23d35a6ffbae2e31400aaed2628)), closes [#39](https://github.com/crystal-ball/semantic-release-base/issue/39)
+
 ### [1.6.2](https://github.com/crystal-ball/semantic-release-base/compare/v1.6.1...v1.6.2) (2019-07-14)
 
 

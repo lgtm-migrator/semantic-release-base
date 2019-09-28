@@ -1,6 +1,6 @@
 {
   "name": "@crystal-ball/semantic-release-base",
-  "version": "1.6.2",
+  "version": "1.7.0",
   "description": "🔮 Projects - Semantic Release configs",
   "main": "index.js",
   "keywords": [
