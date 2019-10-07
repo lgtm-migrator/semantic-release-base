@@ -14,6 +14,27 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.0.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.7.0...v2.0.0) (2019-10-07)
+
+
+### 💥 Breaking Changes!
+
+* Semantic release is no longer restricted to master branch and should be specified
+in each repo's CI/CD configurations
+
+
+#### 💖 New
+
+* Remove master branch restriction in favor of specifying by repo 💥 (#42)([68ea4c3](https://github.com/crystal-ball/semantic-release-base/commit/68ea4c36086cd349b797405be76cd8a08063c21b)), closes [#42](https://github.com/crystal-ball/semantic-release-base/issue/42)
+
+#### ✨ Update
+
+* Dependencies 🆙([2f469de](https://github.com/crystal-ball/semantic-release-base/commit/2f469dee2b43fcc2a63a382d1b0dde8c1e39ba79))
+
+#### Chore
+
+* Configure Github actions ⚙️ (#41)([7ac3745](https://github.com/crystal-ball/semantic-release-base/commit/7ac37450926436512581b1852f8be9c034ea5956)), closes [#41](https://github.com/crystal-ball/semantic-release-base/issue/41)
+
 ## [1.7.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.6.2...v1.7.0) (2019-09-28)
 
 
