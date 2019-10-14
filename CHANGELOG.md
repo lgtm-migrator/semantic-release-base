@@ -14,6 +14,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.1.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.0.0...v2.1.0) (2019-10-14)
+
+
+#### ✨ Update
+
+* Update minor dependencies 🆙 (#50)([fa8c9f1](https://github.com/crystal-ball/semantic-release-base/commit/fa8c9f12411f82fd4054f8f013071e1342013c0c)), closes [#50](https://github.com/crystal-ball/semantic-release-base/issue/50)
+
+#### Docs, Chore
+
+* Replace Travis badge with Github Actions badge and setup example 📝 (#44)([d98e49e](https://github.com/crystal-ball/semantic-release-base/commit/d98e49e9b1e4bbc2dd3c60c4565c531848ce990d)), closes [#44](https://github.com/crystal-ball/semantic-release-base/issue/44)
+* Reconfigure Renovate ⚙️ (#47)([33bf2ac](https://github.com/crystal-ball/semantic-release-base/commit/33bf2ace83c6ca3145f48366bd2fdc3560737a27)), closes [#47](https://github.com/crystal-ball/semantic-release-base/issue/47)
+* Update minor devDependencies 🆙 (#49)([e384078](https://github.com/crystal-ball/semantic-release-base/commit/e38407802d054410f2a09122f1234b456a23cbaf)), closes [#49](https://github.com/crystal-ball/semantic-release-base/issue/49)
+
 ## [2.0.0](https://github.com/crystal-ball/semantic-release-base/compare/v1.7.0...v2.0.0) (2019-10-07)
 
 
