@@ -55,7 +55,7 @@
   <h1></h1>
   <br />
   <p align="center">
-    <em>Documentation and standards for managing Crystal Ball Projects 🔮✨</em>
+    <em>Fully automated version management and package publishing for 🔮 packages</em>
   </p>
   <br />
 </div>
