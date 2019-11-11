@@ -16,12 +16,12 @@ exports[`Changelog writer configs - Commit groups The commit groups are rendered
 
 * Hecka rad test message([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
 
-#### Docs, Build, Upgrade, Chore
+#### Chore, Docs, Upgrade, Build
 
-* Docs commit([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
-* Build commit([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
-* Upgrade commit([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
 * Chore commit([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
+* Docs commit([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
+* Upgrade commit([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
+* Build commit([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
 "
 `;
 
@@ -74,9 +74,11 @@ exports[`Changelog writer configs All release notes features are rendered correc
 * Fixing broken assertion in test([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a)), closes [#75](https://github.com/crystal-ball/semantic-release-base/issue/75)
 * Fixing broken assertion in test([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a)), closes [cool-org/cool-package#75](https://github.com/cool-org/cool-package/issue/75)
 
-#### Docs, Upgrade
+#### Docs, Upgrade, Build
 
+* Add Roadmap tasks for release notes([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
 * Added docs on config overrides([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
 * ESLint to latest([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
+* Update Github Actions config([8d14946](https://github.com/crystal-ball/semantic-release-base/commit/8d14946c50464dcf99cf5a9bd701262b2e3a2b4a))
 "
 `;
