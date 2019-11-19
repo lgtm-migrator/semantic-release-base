@@ -14,6 +14,25 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.5.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.4.0...v2.5.0) (2019-11-19)
+
+
+#### ✨ Update
+
+* Package dependencies 🆙 (#65)([9fef3fc](https://github.com/crystal-ball/semantic-release-base/commit/9fef3fcbc8e126f9164b15f80c433383b389c5fc)), closes [#65](https://github.com/crystal-ball/semantic-release-base/issue/65)
+
+#### Test, Chore, Docs
+
+* Add git plugin test ✓ (#59)([2985036](https://github.com/crystal-ball/semantic-release-base/commit/2985036738a99540c8a6b905c65aff98f3f509b3)), closes [#59](https://github.com/crystal-ball/semantic-release-base/issue/59)
+* Add checks for skipping ci ⚙️ (#63)([3515615](https://github.com/crystal-ball/semantic-release-base/commit/35156154fa6a6fc547656ffe673172004bad2d97)), closes [#63](https://github.com/crystal-ball/semantic-release-base/issue/63)
+* Code authoring updates 📝 (#62)([faecc33](https://github.com/crystal-ball/semantic-release-base/commit/faecc339edfb2904ee5c677c30018737c41c4d51)), closes [#62](https://github.com/crystal-ball/semantic-release-base/issue/62)
+* Dev dependencies update([fac958e](https://github.com/crystal-ball/semantic-release-base/commit/fac958ef96dcc24b9b3bdcb4ee5269394143f689))
+* Reconfigure Renovate 🆙 (#60)([6a4f7cb](https://github.com/crystal-ball/semantic-release-base/commit/6a4f7cbaec33bcfc4e00585c9a812df8882b3c94)), closes [#60](https://github.com/crystal-ball/semantic-release-base/issue/60)
+* Update Code of Conduct and Contributing files 🔮✨ (#57)([e04abf4](https://github.com/crystal-ball/semantic-release-base/commit/e04abf4e96735e68897f93124b92cb8deea6543a)), closes [#57](https://github.com/crystal-ball/semantic-release-base/issue/57)
+* Update dev dependencies 🆙 (#64)([9260992](https://github.com/crystal-ball/semantic-release-base/commit/92609923afb130ebfa7a44ba79c873a9de69c094)), closes [#64](https://github.com/crystal-ball/semantic-release-base/issue/64)
+* Use commitizen-base package for commits 🆙 (#58)([983cbec](https://github.com/crystal-ball/semantic-release-base/commit/983cbec6e2c6f14ce67f719ce83d78988be09cbc)), closes [#58](https://github.com/crystal-ball/semantic-release-base/issue/58)
+* Update repo summary 📝([4119e65](https://github.com/crystal-ball/semantic-release-base/commit/4119e65a118baa61f9bd68781699b265d6576db6))
+
 ## [2.4.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.3.0...v2.4.0) (2019-11-11)
 
 
