@@ -14,6 +14,18 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.6.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.5.0...v2.6.0) (2019-11-25)
+
+
+#### ✨ Update
+
+* Package dependencies 🆙 (#67)([09dadf8](https://github.com/crystal-ball/semantic-release-base/commit/09dadf82af7492ed32f34a38d46e4e6c330e07ac)), closes [#67](https://github.com/crystal-ball/semantic-release-base/issue/67)
+
+#### Chore
+
+* Add CODEOWNERS 📝([d5d34cf](https://github.com/crystal-ball/semantic-release-base/commit/d5d34cfc862bb2bdf612c0eb212063d6d1dc61a7))
+* Package updates ⚙️([8ef7464](https://github.com/crystal-ball/semantic-release-base/commit/8ef74645cc6495488ed7a5e8b5aee3ea3ceebe85))
+
 ## [2.5.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.4.0...v2.5.0) (2019-11-19)
 
 
