@@ -14,6 +14,17 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.7.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.6.0...v2.7.0) (2019-12-02)
+
+
+#### ✨ Update
+
+* Package @semantic-release/release-notes-generator upgrades to v7.3.5 🆙 (#68)([47e8b5a](https://github.com/crystal-ball/semantic-release-base/commit/47e8b5aeb926a1038a633af9de067791ca371852)), closes [#68](https://github.com/crystal-ball/semantic-release-base/issue/68)
+
+#### Chore
+
+* Update package eslint-config-eloquence to v12.13.0 🆙 (#66)([32d54a8](https://github.com/crystal-ball/semantic-release-base/commit/32d54a87893ae9773da6e27cd84979fc9630beb5)), closes [#66](https://github.com/crystal-ball/semantic-release-base/issue/66)
+
 ## [2.6.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.5.0...v2.6.0) (2019-11-25)
 
 
