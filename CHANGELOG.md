@@ -14,6 +14,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.12.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.11.0...v2.12.0) (2020-01-28)
+
+
+#### ✨ Update
+
+* Package dependencies 🆙 (#80)([be2e631](https://github.com/crystal-ball/semantic-release-base/commit/be2e63192aeb1f7ec39804eb109b02ffebab7fe3)), closes [#80](https://github.com/crystal-ball/semantic-release-base/issue/80)
+
+#### Chore
+
+* Update package eslint-config-eloquence to v12.19.0 🆙 (#78)([ffc9209](https://github.com/crystal-ball/semantic-release-base/commit/ffc92099db2461709fb07057671f98ae31df39eb)), closes [#78](https://github.com/crystal-ball/semantic-release-base/issue/78)
+* Update package husky to v4.2.1 🆙 (#79)([2fa75b3](https://github.com/crystal-ball/semantic-release-base/commit/2fa75b369f5b148d9ed4d43d7514b6a6bf9d616c)), closes [#79](https://github.com/crystal-ball/semantic-release-base/issue/79)
+* Update package jest to v25 🆙 (#81)([240f979](https://github.com/crystal-ball/semantic-release-base/commit/240f979dbf03a56f34b0bf82edf5e9b9e8f9e547)), closes [#81](https://github.com/crystal-ball/semantic-release-base/issue/81)
+
 ## [2.11.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.10.0...v2.11.0) (2020-01-20)
 
 
