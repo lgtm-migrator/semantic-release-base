@@ -1,13 +1,5 @@
 name: CI/CD
-
-# Run action on all PRS and on change to master branch in order to test PRs for
-# continuous integration and deploy master for continuous deployment
-on:
-  pull_request:
-    types: [opened, synchronize, reopened]
-  push:
-    branches:
-      - master
+on: [push]
 
 jobs:
   skip:
@@ -17,6 +9,7 @@ jobs:
     steps:
       - name: Skip CI Commit
         run: echo "Skip CI commit success"
+
   test:
     name: Continuous Integration
     if: contains(github.event.head_commit.message, 'skip ci') == false
@@ -26,12 +19,11 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: '10'
+          node-version: '12'
       - name: Install
-        run: npm install
-        env:
-          CI: 'true'
+        run: CI=true npm install
       - name: Code Climate - Setup
+        # Install the Code Climate reporter in workspace
         run: |
           curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
           chmod +x ./cc-test-reporter
@@ -40,9 +32,14 @@ jobs:
         run: npm test
       - name: Code Climate - Report
         if: success()
-        run: ./cc-test-reporter after-build
+        # Upload test code coverage report to Code Climate (branch must be explicitly set)
+        run: |
+          export GIT_BRANCH="${GIT_BRANCH:-${GITHUB_REF:11}}"
+          ./cc-test-reporter after-build
         env:
           CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
+          GIT_BRANCH: ${{ github.head_ref }}
+
   publish:
     name: Continuous Deployment
     needs: test
@@ -53,11 +50,9 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: '10'
+          node-version: '12'
       - name: Install
-        run: npm install
-        env:
-          CI: 'true'
+        run: CI=true npm install
       - name: Release
         run: npx semantic-release
         env:
