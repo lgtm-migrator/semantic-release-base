@@ -14,6 +14,21 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.15.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.14.0...v2.15.0) (2020-03-16)
+
+
+#### ✨ Update
+
+* Package @semantic-release/npm upgrades to v7.0.4 🆙 (#94)([75af9f7](https://github.com/crystal-ball/semantic-release-base/commit/75af9f751460f0fbf5ef96ca7c45b89e6fceb152)), closes [#94](https://github.com/crystal-ball/semantic-release-base/issue/94)
+
+#### Chore
+
+* Add npm ignore for publishing control([0009cb3](https://github.com/crystal-ball/semantic-release-base/commit/0009cb394663e4c69830d0d4f63ccdbdf01e670b))
+* Single line fields first([62e7a52](https://github.com/crystal-ball/semantic-release-base/commit/62e7a52ff456a2d718347d5f776555a5d7159aca))
+* Update dev dependencies 🆙 (#89)([958c6ed](https://github.com/crystal-ball/semantic-release-base/commit/958c6ed9dd4d32f66c46120d6d0aa2f40557fe95)), closes [#89](https://github.com/crystal-ball/semantic-release-base/issue/89)
+* Update package eslint-config-eloquence to v13.5.0 🆙 (#90)([8b63b67](https://github.com/crystal-ball/semantic-release-base/commit/8b63b67705a593be5cb0e9731eb66da30bbe86da)), closes [#90](https://github.com/crystal-ball/semantic-release-base/issue/90)
+* Update package eslint-config-eloquence to v13.6.0 🆙 (#93)([2a25322](https://github.com/crystal-ball/semantic-release-base/commit/2a25322ee802f6ebeb3f1863a70d799dc19248d3)), closes [#93](https://github.com/crystal-ball/semantic-release-base/issue/93)
+
 ## [2.14.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.13.0...v2.14.0) (2020-02-25)
 
 
