@@ -14,6 +14,13 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+### [2.18.1](https://github.com/crystal-ball/semantic-release-base/compare/v2.18.0...v2.18.1) (2020-05-22)
+
+
+#### 🛠 Fix
+
+* Publish src files ⚙️ (#110)([4185508](https://github.com/crystal-ball/semantic-release-base/commit/4185508143fbb0e919cdc0b91adfc03e2d17937d)), closes [#110](https://github.com/crystal-ball/semantic-release-base/issue/110)
+
 ## [2.18.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.17.0...v2.18.0) (2020-05-22)
 
 
