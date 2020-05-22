@@ -14,6 +14,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.18.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.17.0...v2.18.0) (2020-05-22)
+
+
+#### ✨ Update
+
+* Library dependencies 🆙 (#109)([c38d941](https://github.com/crystal-ball/semantic-release-base/commit/c38d941ca68e63fc2af58d38d91c51aa6b8af825)), closes [#109](https://github.com/crystal-ball/semantic-release-base/issue/109)
+
+#### Chore
+
+* Move /lib to /src ⚙️ (#105)([29852cb](https://github.com/crystal-ball/semantic-release-base/commit/29852cb5934da68301ba99a62e43e480d19b9d27)), closes [#105](https://github.com/crystal-ball/semantic-release-base/issue/105)
+* Reconfigure Renovate ⚙️ (#104)([4c08f8f](https://github.com/crystal-ball/semantic-release-base/commit/4c08f8f8cd0e71d4fd0236b98401f1568b6df59b)), closes [#104](https://github.com/crystal-ball/semantic-release-base/issue/104)
+* Update dev dependencies 🆙 (#102)([0ec99bc](https://github.com/crystal-ball/semantic-release-base/commit/0ec99bc6cd5e891f866c52d91433cbdf0be8ca88)), closes [#102](https://github.com/crystal-ball/semantic-release-base/issue/102)
+
 ## [2.17.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.16.0...v2.17.0) (2020-04-27)
 
 
