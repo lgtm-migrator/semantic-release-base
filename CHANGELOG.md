@@ -14,6 +14,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.19.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.18.1...v2.19.0) (2020-05-31)
+
+
+#### ✨ Update
+
+* Dependencies 🆙 (#113)([cd71d89](https://github.com/crystal-ball/semantic-release-base/commit/cd71d8908e101b1ae31803f5566a99b644d750e3)), closes [#113](https://github.com/crystal-ball/semantic-release-base/issue/113)
+
+#### Chore, Docs
+
+* Update Eloquence 🆙 (#111)([216f0fb](https://github.com/crystal-ball/semantic-release-base/commit/216f0fbcd8cca5df4b895a66c43a64d4e5e173a4)), closes [#111](https://github.com/crystal-ball/semantic-release-base/issue/111)
+* Update package eslint-config-eloquence to v14.1.4 🆙 (#112)([77168ca](https://github.com/crystal-ball/semantic-release-base/commit/77168ca73d0312f136416c4632b455a5ac6433ff)), closes [#112](https://github.com/crystal-ball/semantic-release-base/issue/112)
+* Move notes to docs dir 📝([940da13](https://github.com/crystal-ball/semantic-release-base/commit/940da1342261a0bcece2df88e7a510fb5e8e3061))
+
 ### [2.18.1](https://github.com/crystal-ball/semantic-release-base/compare/v2.18.0...v2.18.1) (2020-05-22)
 
 
