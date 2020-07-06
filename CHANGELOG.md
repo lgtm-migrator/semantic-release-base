@@ -14,6 +14,22 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.20.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.19.0...v2.20.0) (2020-07-06)
+
+
+#### ✨ Update
+
+* Package semantic-release to v17.1.1 🆙 (#119)([5e41a0d](https://github.com/crystal-ball/semantic-release-base/commit/5e41a0ddaad68589da88d9dead3029aba7f16c30)), closes [#119](https://github.com/crystal-ball/semantic-release-base/issue/119)
+
+#### Chore
+
+* Update package @types/jest to v26 🆙 (#116)([432918a](https://github.com/crystal-ball/semantic-release-base/commit/432918a6308776f9ff34a41a76e63b89c25708c5)), closes [#116](https://github.com/crystal-ball/semantic-release-base/issue/116)
+* Update package @types/jest to v26.0.3 🆙 (#120)([0a6df6e](https://github.com/crystal-ball/semantic-release-base/commit/0a6df6edd0249738c79b872700beac8e9604dd35)), closes [#120](https://github.com/crystal-ball/semantic-release-base/issue/120)
+* Update package eslint-config-eloquence to v14.3.2 🆙 (#114)([befae7f](https://github.com/crystal-ball/semantic-release-base/commit/befae7f8e12bc36c4f129ea59c06e827f2523d11)), closes [#114](https://github.com/crystal-ball/semantic-release-base/issue/114)
+* Update package eslint-config-eloquence to v14.4.0 🆙 (#115)([57984a5](https://github.com/crystal-ball/semantic-release-base/commit/57984a55ad861fd97c012ae4fe31e5bfe18e8c7e)), closes [#115](https://github.com/crystal-ball/semantic-release-base/issue/115)
+* Update package eslint-config-eloquence to v14.5.0 🆙 (#117)([d8a0913](https://github.com/crystal-ball/semantic-release-base/commit/d8a09133807b32c3c0ea85b819a89ab0454df9ce)), closes [#117](https://github.com/crystal-ball/semantic-release-base/issue/117)
+* Update package jest to v26.1.0 🆙 (#118)([bcb2117](https://github.com/crystal-ball/semantic-release-base/commit/bcb211723ae99bd4248f43e4f453b660b497f51b)), closes [#118](https://github.com/crystal-ball/semantic-release-base/issue/118)
+
 ## [2.19.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.18.1...v2.19.0) (2020-05-31)
 
 
