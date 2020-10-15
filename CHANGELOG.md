@@ -14,6 +14,21 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.22.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.21.0...v2.22.0) (2020-10-15)
+
+
+#### ✨ Update
+
+* Package semantic-release to v17.2.1 🆙 (#137)([e1c901e](https://github.com/crystal-ball/semantic-release-base/commit/e1c901eea9e43bd84b870bcdef1938b69511efab)), closes [#137](https://github.com/crystal-ball/semantic-release-base/issue/137)
+
+#### Chore
+
+* Update package dependencies 🆙([e43cbd5](https://github.com/crystal-ball/semantic-release-base/commit/e43cbd543343af38750a31b0ee04f5e4ff46c937))
+* Update package eslint-config-eloquence to v15.3.0 🆙 (#133)([79edc64](https://github.com/crystal-ball/semantic-release-base/commit/79edc64c686f80d009d737e8efb7dd227b5b57e0)), closes [#133](https://github.com/crystal-ball/semantic-release-base/issue/133)
+* Update package eslint-config-eloquence to v16 🆙 (#134)([6a06f2e](https://github.com/crystal-ball/semantic-release-base/commit/6a06f2e9f8551c8ebb45475c22b044538a95be38)), closes [#134](https://github.com/crystal-ball/semantic-release-base/issue/134)
+* Update package jest to v26.5.2 🆙 (#135)([643d807](https://github.com/crystal-ball/semantic-release-base/commit/643d8075f66987d0b1b52f6c36f64806152467a0)), closes [#135](https://github.com/crystal-ball/semantic-release-base/issue/135)
+* Update package jest to v26.5.3 🆙 (#136)([2cee8bd](https://github.com/crystal-ball/semantic-release-base/commit/2cee8bd05380b3713af1748ca59dec3a88afaad7)), closes [#136](https://github.com/crystal-ball/semantic-release-base/issue/136)
+
 ## [2.21.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.20.0...v2.21.0) (2020-09-22)
 
 
