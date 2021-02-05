@@ -14,6 +14,22 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.26.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.25.0...v2.26.0) (2021-02-05)
+
+
+#### ✨ Update
+
+* Dependencies 🆙 (#152)([295d649](https://github.com/crystal-ball/semantic-release-base/commit/295d6495116c82f1901144fbd71b96cc09ad4f67)), closes [#152](https://github.com/crystal-ball/semantic-release-base/issue/152)
+
+#### Chore
+
+* Update devDependencies 🆙 (#149)([9e21bed](https://github.com/crystal-ball/semantic-release-base/commit/9e21beddabc6b0d86cfbcc0cdc425a754e6cc775)), closes [#149](https://github.com/crystal-ball/semantic-release-base/issue/149)
+* Update devDependencies 🆙 (#151)([08dcb3c](https://github.com/crystal-ball/semantic-release-base/commit/08dcb3c4f99e1c1ce2f6e9e77b3ac05a0e5e26ce)), closes [#151](https://github.com/crystal-ball/semantic-release-base/issue/151)
+* Update devDependencies 🆙 (#153)([4e4bf02](https://github.com/crystal-ball/semantic-release-base/commit/4e4bf02352d5c731f335cbeb1e3dcfeb71b912ba)), closes [#153](https://github.com/crystal-ball/semantic-release-base/issue/153)
+* Update devDependencies 🆙 (#155)([4dd2514](https://github.com/crystal-ball/semantic-release-base/commit/4dd25148d0c46cc8fb96e43c30541d955b30fc4f)), closes [#155](https://github.com/crystal-ball/semantic-release-base/issue/155)
+* Update package eslint-config-eloquence to v17 🆙 (#150)([213559f](https://github.com/crystal-ball/semantic-release-base/commit/213559f751ddfa48b90a59464d2666a807dd9516)), closes [#150](https://github.com/crystal-ball/semantic-release-base/issue/150)
+* Update package husky to v4.3.8 🆙 (#156)([4ddf30f](https://github.com/crystal-ball/semantic-release-base/commit/4ddf30fb5e16bc59ce4453aaef066326d39d4fa9)), closes [#156](https://github.com/crystal-ball/semantic-release-base/issue/156)
+
 ## [2.25.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.24.0...v2.25.0) (2020-11-27)
 
 
