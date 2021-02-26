@@ -14,6 +14,17 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.29.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.28.0...v2.29.0) (2021-02-26)
+
+
+#### ✨ Update
+
+* Support main branch as default release branch 💖 (#163)([5ed3262](https://github.com/crystal-ball/semantic-release-base/commit/5ed326293536072f32e9491e7cbefe8087b026fe)), closes [#163](https://github.com/crystal-ball/semantic-release-base/issue/163)
+
+#### Chore
+
+* Update devDependencies 🆙 (#162)([d611747](https://github.com/crystal-ball/semantic-release-base/commit/d611747c3dbbe24fcf9e12dfc1d9b1a30f594f62)), closes [#162](https://github.com/crystal-ball/semantic-release-base/issue/162)
+
 ## [2.28.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.27.0...v2.28.0) (2021-02-17)
 
 
