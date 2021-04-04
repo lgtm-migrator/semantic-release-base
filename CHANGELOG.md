@@ -14,6 +14,20 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.30.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.29.0...v2.30.0) (2021-04-04)
+
+
+#### ✨ Update
+
+* Package dependencies 🆙 (#173)([cef4e71](https://github.com/crystal-ball/semantic-release-base/commit/cef4e7114677ca111cceeaca1f01192a88e3faf0)), closes [#173](https://github.com/crystal-ball/semantic-release-base/issue/173)
+
+#### Chore
+
+* Update devDependencies 🆙 (#164)([46e678e](https://github.com/crystal-ball/semantic-release-base/commit/46e678ee7e230450f346350a6286d14464cab377)), closes [#164](https://github.com/crystal-ball/semantic-release-base/issue/164)
+* Update devDependencies 🆙 (#169)([7d5d2cd](https://github.com/crystal-ball/semantic-release-base/commit/7d5d2cd16abc01a7ae34fb7bb907958921d5992a)), closes [#169](https://github.com/crystal-ball/semantic-release-base/issue/169)
+* Update package @types/jest to v26.0.22 🆙 (#172)([70be7bd](https://github.com/crystal-ball/semantic-release-base/commit/70be7bd533a00cc4007df0081ae6f3fe05b6d535)), closes [#172](https://github.com/crystal-ball/semantic-release-base/issue/172)
+* Update package eslint-config-eloquence to v17.7.0 🆙 (#168)([75c4edf](https://github.com/crystal-ball/semantic-release-base/commit/75c4edf67878059fdae814f435cf4f10e612e7d4)), closes [#168](https://github.com/crystal-ball/semantic-release-base/issue/168)
+
 ## [2.29.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.28.0...v2.29.0) (2021-02-26)
 
 
