@@ -93,7 +93,7 @@ _2. Update `package.json`_
 
 ## CI/CD configuration
 
-Releases should be configured to trigger on change to master branch in CI/CD.
+Releases should be configured to trigger on change to default branch in CI/CD.
 Configurations must be set as environment values including:
 
 - `GH_TOKEN` Github token
@@ -118,7 +118,7 @@ jobs:
       - name: Test
         run: npm test
       - name: Release
-        if: success() && github.ref == 'refs/heads/master'
+        if: success() && github.ref == 'refs/heads/main'
         run: npx semantic-release
         env:
           GH_TOKEN: ${{ secrets.SEMANTIC_GH_TOKEN }}
