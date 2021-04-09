@@ -14,6 +14,20 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.31.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.30.0...v2.31.0) (2021-04-09)
+
+
+#### ✨ Update
+
+* Dependencies 🆙 (#177)([ea0608c](https://github.com/crystal-ball/semantic-release-base/commit/ea0608c0cad65bd2c61ced113007f30575a4fd2e)), closes [#177](https://github.com/crystal-ball/semantic-release-base/issue/177)
+
+#### Chore, Upgrade
+
+* Update package eslint-config-eloquence to v18.2.0 🆙 (#176)([eca7024](https://github.com/crystal-ball/semantic-release-base/commit/eca70248c688173c9e3be3b045943a100454182b)), closes [#176](https://github.com/crystal-ball/semantic-release-base/issue/176)
+* Update package tooling configurations ⚙️ (#174)([d7c467d](https://github.com/crystal-ball/semantic-release-base/commit/d7c467d03f665997c1fdfdbd1f2033817d3ed6b3)), closes [#174](https://github.com/crystal-ball/semantic-release-base/issue/174)
+* Update workflow Node version (#175)([8c9c9e5](https://github.com/crystal-ball/semantic-release-base/commit/8c9c9e57f15e053ddb7c32e8999fbd345c3af219)), closes [#175](https://github.com/crystal-ball/semantic-release-base/issue/175)
+* Rename default branch to main 💖([fef0ec0](https://github.com/crystal-ball/semantic-release-base/commit/fef0ec04c787763e37354018e232e21320042239))
+
 ## [2.30.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.29.0...v2.30.0) (2021-04-04)
 
 
