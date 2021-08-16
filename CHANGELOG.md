@@ -14,6 +14,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.33.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.32.0...v2.33.0) (2021-08-16)
+
+
+#### ✨ Update
+
+* Dependencies 🆙 (#183)([7dcf495](https://github.com/crystal-ball/semantic-release-base/commit/7dcf495a0768e469a6b4342816d69267259f79f7)), closes [#183](https://github.com/crystal-ball/semantic-release-base/issue/183)
+
+#### Chore
+
+* Update package @types/jest to v26.0.24 🆙 (#184)([ef64029](https://github.com/crystal-ball/semantic-release-base/commit/ef6402956502c64ce8f2dafdd738ba075e12550a)), closes [#184](https://github.com/crystal-ball/semantic-release-base/issue/184)
+* Update package jest to v27 🆙 (#181)([e56458a](https://github.com/crystal-ball/semantic-release-base/commit/e56458a51d5e4590b062250f3bc5471b0c8133a7)), closes [#181](https://github.com/crystal-ball/semantic-release-base/issue/181)
+* Update package jest to v27.0.6 🆙 (#182)([7856332](https://github.com/crystal-ball/semantic-release-base/commit/7856332d381b262305498e7619d734a7fd9752fd)), closes [#182](https://github.com/crystal-ball/semantic-release-base/issue/182)
+
 ## [2.32.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.31.0...v2.32.0) (2021-05-16)
 
 
