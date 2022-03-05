@@ -14,6 +14,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.37.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.36.0...v2.37.0) (2022-03-05)
+
+
+#### ✨ Update
+
+* Package @semantic-release/npm to v9.0.1 🆙 (#204)([ce4fa8b](https://github.com/crystal-ball/semantic-release-base/commit/ce4fa8bb7c0798b92a8867ac103981193020286c)), closes [#204](https://github.com/crystal-ball/semantic-release-base/issue/204)
+
+#### Chore
+
+* Update actions/setup-node action to v3 (#205)([edfb840](https://github.com/crystal-ball/semantic-release-base/commit/edfb8402befaed0e395330e42ca1374dc8470a9d)), closes [#205](https://github.com/crystal-ball/semantic-release-base/issue/205)
+* Update devDependencies 🆙 (#203)([f63f35c](https://github.com/crystal-ball/semantic-release-base/commit/f63f35cbc0787fe07b5b12fd020375962f4e6673)), closes [#203](https://github.com/crystal-ball/semantic-release-base/issue/203)
+* Update package @crystal-ball/prettier-base to v2.11.0 🆙 (#202)([4353d37](https://github.com/crystal-ball/semantic-release-base/commit/4353d37f1fa856992117b5ad850e53af3a0a2108)), closes [#202](https://github.com/crystal-ball/semantic-release-base/issue/202)
+
 ## [2.36.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.35.0...v2.36.0) (2022-01-23)
 
 
