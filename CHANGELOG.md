@@ -14,6 +14,17 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.38.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.37.0...v2.38.0) (2022-04-09)
+
+
+#### ✨ Update
+
+* Package dependencies (#211)([59f5208](https://github.com/crystal-ball/semantic-release-base/commit/59f52082293db2551343fee231103c5983c99c97)), closes [#211](https://github.com/crystal-ball/semantic-release-base/issue/211)
+
+#### Chore
+
+* Update package typescript to v4.6.3 🆙 (#206)([e8b495b](https://github.com/crystal-ball/semantic-release-base/commit/e8b495b999ef75eee6c98b54d23e1066c409b9ad)), closes [#206](https://github.com/crystal-ball/semantic-release-base/issue/206)
+
 ## [2.37.0](https://github.com/crystal-ball/semantic-release-base/compare/v2.36.0...v2.37.0) (2022-03-05)
 
 
